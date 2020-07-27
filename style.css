@@ -26,12 +26,13 @@
     font-weight: 800;
     box-shadow: 3px 3px 9px #5e1b3a , -3px -3px 9px #e9559a;
     flex-wrap: wrap;
+    position: relative;
 }
 
 .content img {
-    width: 300px;
+    width: 250px;
     position: absolute;
-    left: 120px;
-    top: 140px;
-
+    left: 40px;
+   top: 60px;
+  
 }
